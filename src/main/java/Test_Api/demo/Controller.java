@@ -16,7 +16,7 @@ public class Controller {
     }
 
      @GetMapping("/ping2")
-    public String eping(){
+    public String eping1(){
         return " i am kunal ok okok okokokok !";
     }
 }
