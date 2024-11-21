@@ -14,4 +14,9 @@ public class Controller {
     public String eping(){
         return " i am kunal  !";
     }
+
+     @GetMapping("/ping2")
+    public String eping(){
+        return " i am kunal ok okok okokokok !";
+    }
 }
