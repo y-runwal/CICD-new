@@ -12,11 +12,11 @@ public class Controller {
 
     @GetMapping("/ping1")
     public String eping(){
-        return " i am kunal  !";
+        return " Hello EPING  !";
     }
 
      @GetMapping("/ping2")
     public String eping1(){
-        return " i am kunal ok okok okokokok !";
+        return " i am Good ok okok okokokok !";
     }
 }
